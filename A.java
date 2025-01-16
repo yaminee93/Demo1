@@ -17,6 +17,7 @@ a.m1();
 int z = 30;
 System.out.println(z);
 System.out.println(a.x);
+System.out.println("main completed")
 }
 }
 
