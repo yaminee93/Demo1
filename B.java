@@ -17,6 +17,7 @@ System.out.println(b.x);
 b.m1();
 int z = 300;
 System.out.println(z);
+System.out.println("value of z: "+z);
 }
 }
 
